@@ -1,7 +1,8 @@
 /*
  * Adapter Pattern
  * 
- *    Convert the interface of a class into another interface clients expect
+ *    Convert the interface of a class into another 
+ *    interface clients expect
  */
 public class AdapterPatternDemo {
 

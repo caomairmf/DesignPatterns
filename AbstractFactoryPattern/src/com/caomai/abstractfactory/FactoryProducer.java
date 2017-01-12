@@ -1,3 +1,4 @@
+package com.caomai.abstractfactory;
 
 public class FactoryProducer {
 	public static AbstractFactory getFactory(String choice) {

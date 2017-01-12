@@ -1,3 +1,4 @@
+package com.caomai.abstractfactory;
 
 public class Blue implements Color {
 

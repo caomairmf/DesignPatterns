@@ -1,3 +1,4 @@
+package com.caomai.abstractfactory;
 
 public class Rectangle implements Shape{
 

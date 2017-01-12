@@ -1,3 +1,4 @@
+package com.caomai.abstractfactory;
 
 public class ColorFactory extends AbstractFactory {
 

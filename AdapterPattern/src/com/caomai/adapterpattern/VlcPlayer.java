@@ -1,4 +1,4 @@
-
+package com.caomai.adapterpattern;
 public class VlcPlayer implements AdvancedMediaPlayer {
 
 	@Override

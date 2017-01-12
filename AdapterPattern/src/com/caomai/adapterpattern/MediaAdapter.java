@@ -1,3 +1,4 @@
+package com.caomai.adapterpattern;
 
 public class MediaAdapter implements MediaPlayer {
 

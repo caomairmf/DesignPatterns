@@ -1,3 +1,4 @@
+package com.caomai.adapterpattern;
 
 public interface AdvancedMediaPlayer {
 	public void playVlc(String filename);

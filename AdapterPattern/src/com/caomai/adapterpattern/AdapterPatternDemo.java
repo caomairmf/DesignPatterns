@@ -1,3 +1,4 @@
+package com.caomai.adapterpattern;
 /*
  * Adapter Pattern
  * 
